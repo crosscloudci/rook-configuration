@@ -1,7 +1,7 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/rook/icon/color/rook-icon-color.svg?sanitize=true"
   display_name: Rook
-  sub_title: Storage Orchestration for Kubernetes
+  sub_title: Storage
   project_url: "https://github.com/rook/rook"
   stable_ref: "v1.1.6"
   head_ref: "master"
