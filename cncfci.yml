@@ -7,8 +7,8 @@
   head_ref: "master"
   ci_system:
     -
-      ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/rook/rook"  # can be anything for citest
+      ci_system_type: "jenkins-ci"
+      ci_project_url: "https://jenkins.rook.io/blue/organizations/jenkins/rook%2Frook/activity/"
       ci_project_name: "rook/rook"
       arch:
         - amd64
